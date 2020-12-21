@@ -1,2 +1,2 @@
 # Acrobat_FYP
-Here is the code for Game setting management and Gme play(2 Module) along with video of project.
+Here is the code for My FYP PROJECT(ACROBAT). All Scripts are uploaded here.
